@@ -1,0 +1,5 @@
+/.idea
+/node_modules
+.env
+ratios-worker.iml
+package-lock.json
